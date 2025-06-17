@@ -1,0 +1,5 @@
+# Created at 2025-06-17T08:50:53.255
+Boot Manifest-JAR contains absolute paths in classpath 'E:\Assignment\Trimble_Cars\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
